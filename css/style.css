@@ -28,7 +28,7 @@ body{
     padding-top:170px ;
 }
 #img{
-    background: url("/images/me1.jpeg")no-repeat;
+    background: url("../images/me1.jpeg")no-repeat;
     background-size: cover;
     background-position: center;
 }
